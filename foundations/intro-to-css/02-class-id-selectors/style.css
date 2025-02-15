@@ -1,0 +1,18 @@
+.odd{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#myDiv1{
+    color: blue;
+    font-size: 36px;
+}
+
+.font-size{
+    font-size: 24px;
+}
+
+#myDiv2{
+    font-weight: bold;
+    background-color: rgb(73, 236, 73);
+}
